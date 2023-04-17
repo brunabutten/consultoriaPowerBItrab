@@ -4,6 +4,8 @@ Nada mais bonito que um antes e depois de um trabalho! Recebi dados confusos com
 
 Fiz as artes dos dashboards no [Canva](https://www.canva.com) 😉
 
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7049780805291692033/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7049780805291692033%29)!
+
 <h1 align="center">Meus Dashboards produzidos</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/consultoriaPowerBItrab/blob/main/Dash01pub.png" width="100%" style="max-width: 100%;"></p>
 
